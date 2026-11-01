@@ -1,9 +1,5 @@
 body{
-		background-image: url("SERIEa.jpg");
-  	background-repeat: no-repeat;
- 	 background-position: center;
-  	background-attachment: fixed;
-  	background-size: cover;
+		
 	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;	/* Font to use */
 		background-color:#E2EBED;
 	}
